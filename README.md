@@ -1,4 +1,4 @@
-# WorkHub – Project Management System (PMS)
+# WorkHub – Project Management System
 
 WorkHub is a web-based **Project Management System** designed to help teams plan, organize, and track projects and tasks efficiently.  
 The system is built using **Django (Backend)**, **React (Frontend – future scope)**, and **MySQL (Database)**, following a clean and modular architecture suitable for academic and real-world use.
